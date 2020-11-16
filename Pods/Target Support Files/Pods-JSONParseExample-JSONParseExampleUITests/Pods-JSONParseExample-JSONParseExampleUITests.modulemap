@@ -1,0 +1,6 @@
+framework module Pods_JSONParseExample_JSONParseExampleUITests {
+  umbrella header "Pods-JSONParseExample-JSONParseExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
